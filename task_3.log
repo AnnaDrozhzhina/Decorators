@@ -1,0 +1,12 @@
+2023-12-23
+23:57:15.443816
+flat_generator
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}
+<generator object flat_generator at 0x000001B97583DB60>
+
+2023-12-24
+00:02:31.960636
+flat_generator
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}
+<generator object flat_generator at 0x0000020B1485DB60>
+
